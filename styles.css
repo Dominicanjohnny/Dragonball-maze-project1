@@ -1,0 +1,62 @@
+
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 55px;
+    padding: 30px;
+    border: 50px solid red;
+   
+}
+
+canvas {
+    display:block;
+    position: relative;
+    margin:30px auto 0;
+      margin-left: auto;
+      margin-right: auto;
+    border:1px dashed #ccc;
+      padding-left: 0;
+      padding-right: 0;
+    background:#000;
+    background-image: url(/Users/johnatan/Desktop/Dragonball-shooter-project1/images/images.jpeg);
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 1000px;
+  }
+/* 
+#container {
+    display: block;
+    position: relative;
+    height: 900px;
+    width: 900px;
+    margin-left: auto;
+        margin-right: auto;
+    border: 10px solid red;
+    padding-left: 0;
+        padding-right: 0;
+    background-image: url(/Users/johnatan/Desktop/Dragonball-shooter-project1/images/images.jpeg);
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px 1000px;
+   
+    
+} */
+/* 
+#character1 {
+    position: absolute;
+    height: 130px;
+    width: 100px;
+    background-image: url(v);
+    background-size: contain;
+    top: 20%;
+    left: 15%; */
+/* } */
+
+#Score-board1 {
+    text-align: center;
+    font-size: 40px;
+    margin-right: 70%;
+}
